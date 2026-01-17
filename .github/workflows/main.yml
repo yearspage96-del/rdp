@@ -22,7 +22,7 @@ jobs:
           sudo apt update && sudo apt install ngrok
           
           # 3. تفعيل المفتاح الجديد الخاص بك
-          ngrok config add-authtoken 38NrjU0MIMesF1mkhrJoGbJ98yM_3UnTr2x3SSEQmYLdpuunb
+          ngrok config add-authtoken 38NsuTFuwUKDH7iIBiBMkKCBKJe_3UtU8JdEG4PAz8epSJmxY
 
           # 4. فتح رابط التحكم (سيظهر الرابط في الأسفل بعد ثوانٍ)
           echo "جاري استخراج رابط التحكم..."
